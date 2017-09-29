@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="label_question">Question</string>
+    <string name="btn_check">Check</string>
+
+    <string name="question_content">Which is the capital of Butthan?</string>
+    <string-array name="answers">
+        <item>Ougadogou</item>
+        <item>Prohm</item>
+        <item>Zgighiti</item>
+        <item>Thimphu</item>
+    </string-array>
+    <integer name="correct_answer">3</integer>
+
+    <string name="correct">Very good!!</string>
+    <string name="incorrect">Incorrect... Try again</string>
+
+</resources>
